@@ -1,11 +1,5 @@
 ## Hi there Ramana Reddy
 
-<!--
-**ramana4849/ramana4849** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m 
 - 🌱 I’m currently learning DSA & Aritifical Intelligence
 - 📫 How to reach me: Here's my G-mail: ramanareddypinninti@gmail.com
--->
+
